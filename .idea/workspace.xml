@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c6bc77e-909a-4858-a9b3-4c1713fa1524" name="Default Changelist" comment="" />
+    <list default="true" id="2c6bc77e-909a-4858-a9b3-4c1713fa1524" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/arm-templates/single-template/standalone-full-vm-parameters.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/arm-templates/single-template/standalone-full-vm-parameters.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/arm-templates/single-template/standalone-full-vm-template.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/arm-templates/single-template/standalone-full-vm-template.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +29,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -48,5 +52,11 @@
       <updated>1603241338368</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="210" key="SettingsEditor" timestamp="1603315882913">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1603315882913" />
   </component>
 </project>
