@@ -1,2 +1,2 @@
-# azure
+# Azure practise
 Learn Azure concepts.
