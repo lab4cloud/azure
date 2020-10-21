@@ -77,7 +77,7 @@
       "value": "azure-learn-admin"
     },
     "adminPassword": {
-      "value": null
+      "value": "azure-learn-admin"
     },
     "patchMode": {
       "value": "AutomaticByOS"

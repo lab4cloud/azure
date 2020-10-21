@@ -4,7 +4,6 @@
     <list default="true" id="2c6bc77e-909a-4858-a9b3-4c1713fa1524" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/resources/arm-templates/single-template/standalone-full-vm-parameters.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/arm-templates/single-template/standalone-full-vm-parameters.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/arm-templates/single-template/standalone-full-vm-template.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/arm-templates/single-template/standalone-full-vm-template.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
