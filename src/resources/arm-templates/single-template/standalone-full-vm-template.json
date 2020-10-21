@@ -59,6 +59,9 @@
     "patchMode": {
       "type": "string"
     },
+    "osImageSku": {
+      "type": "string"
+    },
     "zone": {
       "type": "string"
     }
@@ -157,7 +160,7 @@
           "imageReference": {
             "publisher": "MicrosoftWindowsServer",
             "offer": "WindowsServer",
-            "sku": "2019-Datacenter",
+            "sku": "[parameters('osImageSku')]",
             "version": "latest"
           }
         },

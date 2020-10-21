@@ -82,6 +82,9 @@
     "patchMode": {
       "value": "AutomaticByOS"
     },
+    "osImageSku": {
+      "value": "2019-Datacenter"
+    },
     "zone": {
       "value": "1"
     }
